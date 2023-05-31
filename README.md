@@ -1,4 +1,4 @@
-# 264-heif-gimp-plugin
+# heif-264-gimp-plugin
 
 This is a GIMP plugin for loading H.264 bitstream HEIF images (High Efficiency Image File Format).
 
