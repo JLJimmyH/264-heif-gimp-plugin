@@ -32,5 +32,3 @@ When starting GIMP, the HEIF file-format should now show in the list of supporte
 The 264-heif-gimp-plugin is distributed under the terms of the GNU General Public License.
 
 See COPYING for more details.
-
-Copyright (c) 2018 Struktur AG / Contact: Dirk Farin farin@struktur.de
